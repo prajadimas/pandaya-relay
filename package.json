@@ -1,0 +1,20 @@
+{
+  "name": "pandaya-relay",
+  "version": "1.0.0",
+  "description": "Relay Control Module for Pandaya+ Device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pandaya+",
+    "relay",
+    "digital"
+  ],
+  "author": "prajadimas",
+  "license": "ISC",
+  "dependencies": {
+    "rpio": "^2.2.0",
+    "socket.io-client": "^2.3.0"
+  }
+}
